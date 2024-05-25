@@ -6,4 +6,4 @@
 - 🔭 I’m currently working on elucidating FUS droplets coalescence mechanism
 - 🌱 I’m currently learning about Python
 - 💬 Ask me about anything!
-- 📫 How to reach me: syamil.muharror.ahsanul.husna.p5@dc.tohoku.ac.jp or syamilmuharror@gmail.com
+- 📫 How to reach me: syamilmuharror@gmail.com
